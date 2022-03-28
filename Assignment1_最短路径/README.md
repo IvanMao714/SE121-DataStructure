@@ -4,7 +4,7 @@
 
 根据网页:<a href="./Assignment request/pathfinding thing.html">requst</a> 的提示实现BFS,Dijkstra, A*寻路算法
 
-<image href=".\img\1.png"\>
+![](.\img\1.png)
 
 ## 2.实现
 
