@@ -38,7 +38,7 @@
 
 以下是上述函数进行比较还需的底层函数
 
-![](H:\2109\DATA STRUCTURES\Assignment1_最短路径\img\2.png)
+![](.\img\2.png)
 
 #### 5.Dijkstra算法
 
@@ -50,7 +50,7 @@ H的值计算方式也不太相同
 
 结果：
 
-![](H:\2109\DATA STRUCTURES\Assignment1_最短路径\img\3.png)
+![](.\img\3.png)
 
 #### 6.Bfs算法
 
